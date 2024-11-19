@@ -519,3 +519,17 @@ button {
         padding-bottom: 10px;
     }
 }
+@media screen and (max-width:321px) {
+    .logo-home {
+        margin-bottom: 65%;
+    }
+    .title-span {
+        font-size: 13px;
+    }
+    .subtitle-span {
+        font-size: 10px;
+    }
+    .privacy-des {
+        font-size: 10px;
+    }
+}
